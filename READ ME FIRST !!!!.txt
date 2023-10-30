@@ -1,0 +1,12 @@
+FOR USER'S LOGIN         
+
+  username = demo
+  password = demo
+
+
+FOR ADMIN'S LOGIN
+
+  username = admin
+  password = admin
+
+
